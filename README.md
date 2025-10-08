@@ -3,7 +3,7 @@
 
 Trabajo práctico Visión por Computadora I.
 
-- `TPWhitePatch.ipynb`: corrección de color mediante white-patch que normaliza cada canal según su píxel más brillante.
+- `whitepatch.ipynb`: corrección de color mediante white-patch que normaliza cada canal según su píxel más brillante.
 
 - `grises.ipynb`: visualización en escala de grises e histograma.
 
